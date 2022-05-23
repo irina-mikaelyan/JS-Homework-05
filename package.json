@@ -1,0 +1,19 @@
+{
+  "name": "js-homework-05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Problem03.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irina-mikaelyan/JS-Homework-05.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irina-mikaelyan/JS-Homework-05/issues"
+  },
+  "homepage": "https://github.com/irina-mikaelyan/JS-Homework-05#readme"
+}
